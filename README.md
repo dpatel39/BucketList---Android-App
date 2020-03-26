@@ -9,7 +9,7 @@ __Development Environment / Tools__
 
 __Summary__
 
-For project details, refer to the Requirements and Specifications document. In a nutshell, this app is developed using redux-react-native and firebase (database). A registerd user can create a bucketlist (things / activities of interest). The app uses google maps and google places api to find the user's activity of interest in nearby vicinity. For example, if a user inputs "Rockclimbing" as a bucketlist item, then the app will find boulder climbing gym and similar facilities near the user's current location. 
+For project details, refer to the Requirements and Specifications document. In a nutshell, this app is developed using redux-react-native and firebase (database). A registerd user can create a bucketlist (things / activities of interest). The app uses google maps and google places api to find the user's activity of interest in nearby vicinity. For example, if a user inputs "Rockclimbing" as a bucketlist item, then the app will find Boulder Climbing Gym and similar facilities near the user's current location. 
 
 In future iterations, we plan on implementing calendar sync where the app will also consider user's availability to make appropriate recommendations. 
 
