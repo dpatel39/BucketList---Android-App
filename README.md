@@ -15,4 +15,4 @@ In future iterations, we plan on implementing calendar sync where the app will a
 
 __Note:__
 
-I cannot post the code due to sensitive credentials info. Demo of the app on request is possible. 
+I cannot post the code due to sensitive credentials info.
