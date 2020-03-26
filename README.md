@@ -1,5 +1,5 @@
 ### BucketList - Android App
-This project is being done by a team of 6 Software Engineers
+Started this project from its inception, developed the requirements and specifications, engineered its architecture and planned iterations with end-to-end testing for each iteration. I have no prior experience working with redux, react-native, firebase and testing tools. However, to meet the project demands, I taught myself these tools and have successfully developed the features for iteration 1 (see details in the Requirements and Specifications document). Complete with unit testing, functional testing, integration testing and regressiong testing, the first iteration is on schedule for timely delivery. 
 
 __Development Environment / Tools__
 * Redux-React-Native
